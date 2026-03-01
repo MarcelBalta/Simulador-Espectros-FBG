@@ -13,4 +13,5 @@ Barrido Paramétrico: Herramienta para analizar la sensibilidad del espectro.
 
 Importación Directa: Carga de datos experimentales desde archivos .txt.
 
-![Preview](https://github.com/user-attachments/assets/a798eff7-4bee-47e9-b299-bd252ae6fd7f)
+
+![Preview](https://github.com/user-attachments/assets/fb2191d1-c229-4e1c-b98f-6d6a9b0ae51b)
